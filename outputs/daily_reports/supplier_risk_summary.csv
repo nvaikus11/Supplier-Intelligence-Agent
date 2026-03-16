@@ -1,0 +1,4 @@
+supplier_id,supplier_name,category_id,total_risk_score,event_count,high_severity_events,category_name,max_possible_score,priority_level,risk_reason
+SUP016,ATI,CAT004,9,3,0,Titanium,27,Watch,"ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers."
+SUP011,DS Smith,CAT003,9,2,0,Packaging,27,Watch,"DS Smith's merger with International Paper completed January 31, 2025, representing a major corporate ownership change that could affect pricing, account management, contract terms, and operational priorities for packaging customers."
+SUP006,AAC Technologies,CAT002,3,1,0,Sound Components,27,Ignore,"An upcoming H1 2025 earnings webcast (scheduled 2025/08/21) indicates financial results are pending disclosure, which may reveal performance trends relevant to supply stability."

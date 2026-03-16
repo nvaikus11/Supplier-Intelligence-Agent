@@ -1,0 +1,104 @@
+Camera Lens:
+  search_terms:
+    - optical module
+    - camera lens
+    - lens assembly
+    - smartphone camera
+    - camera module
+  financial_terms:
+    - smartphone demand slowdown
+    - margin pressure
+    - quarterly results
+    - earnings
+    - restructuring
+  logistics_terms:
+    - production delay
+    - yield issue
+    - component shortage
+    - shipment delay
+  esg_terms:
+    - labor
+    - safety
+    - emissions
+    - compliance
+  capacity_terms:
+    - capacity expansion
+    - new plant
+    - production ramp
+    - factory expansion
+
+Sound Components:
+  search_terms:
+    - acoustic module
+    - speaker module
+    - microphone component
+    - audio component
+    - receiver module
+  financial_terms:
+    - consumer electronics demand
+    - margin pressure
+    - quarterly results
+    - earnings
+  logistics_terms:
+    - freight delay
+    - shipment delay
+    - production disruption
+  esg_terms:
+    - labor
+    - safety
+    - environmental compliance
+  capacity_terms:
+    - production ramp
+    - capacity expansion
+    - new facility
+
+Packaging:
+  search_terms:
+    - corrugated packaging
+    - paper packaging
+    - retail packaging
+    - pulp and paper
+  financial_terms:
+    - pulp prices
+    - paper demand
+    - earnings
+    - margin pressure
+  logistics_terms:
+    - freight
+    - shipping delay
+    - plant disruption
+  esg_terms:
+    - recycling
+    - sustainability
+    - emissions
+    - compliance
+  capacity_terms:
+    - packaging plant
+    - mill expansion
+    - capacity increase
+
+Titanium:
+  search_terms:
+    - titanium alloy
+    - titanium mill product
+    - aerospace titanium
+    - titanium component
+  financial_terms:
+    - aerospace demand
+    - metals pricing
+    - earnings
+    - restructuring
+    - margin pressure
+  logistics_terms:
+    - raw material shortage
+    - freight disruption
+    - shipment delay
+  esg_terms:
+    - emissions
+    - environmental compliance
+    - safety
+    - labor
+  capacity_terms:
+    - mill expansion
+    - production capacity
+    - plant shutdown

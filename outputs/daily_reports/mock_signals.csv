@@ -1,0 +1,61 @@
+event_id,event_date,supplier_id,supplier_name,category_id,signal_type,signal_text,severity,confidence,source_type,recommended_action
+EVT-327774,2026-03-12,SUP001,Largan Precision,CAT001,logistics,Largan Precision may be exposed to port or freight bottlenecks.,Medium,Medium,logistics_signal,Check transport routes and identify backup logistics options
+EVT-678630,2026-03-12,SUP001,Largan Precision,CAT001,news,Largan Precision announced expansion of manufacturing capacity.,Medium,High,public_news,Monitor for further updates
+EVT-316134,2026-03-12,SUP001,Largan Precision,CAT001,financial,Largan Precision was linked to restructuring or layoffs discussion.,Low,High,financial_signal,Monitor for further updates
+EVT-811799,2026-03-12,SUP002,Sunny Optical,CAT001,news,Sunny Optical was referenced in a news article about operational changes.,High,High,public_news,Monitor for further updates
+EVT-620238,2026-03-12,SUP002,Sunny Optical,CAT001,weather,Sunny Optical local weather conditions may affect operations.,Low,High,weather_signal,Monitor for further updates
+EVT-655476,2026-03-12,SUP002,Sunny Optical,CAT001,financial,Sunny Optical may be experiencing margin pressure due to demand shifts.,High,Low,financial_signal,Review supplier financial health and assess alternate vendors
+EVT-973119,2026-03-12,SUP003,Genius Electronic Optical,CAT001,logistics,Genius Electronic Optical could face transportation delays based on local conditions.,Medium,Medium,logistics_signal,Check transport routes and identify backup logistics options
+EVT-239815,2026-03-12,SUP003,Genius Electronic Optical,CAT001,esg_compliance,Genius Electronic Optical may need review for labor or compliance signals.,Low,Low,esg_signal,Monitor for further updates
+EVT-972903,2026-03-12,SUP003,Genius Electronic Optical,CAT001,weather,Genius Electronic Optical site may face heavy rain disruption this week.,Low,Low,weather_signal,Monitor for further updates
+EVT-907388,2026-03-12,SUP004,Kantatsu,CAT001,logistics,Kantatsu could face transportation delays based on local conditions.,Low,Low,logistics_signal,Monitor for further updates
+EVT-248661,2026-03-12,SUP004,Kantatsu,CAT001,esg_compliance,Kantatsu may need review for labor or compliance signals.,Medium,High,esg_signal,Monitor for further updates
+EVT-870350,2026-03-12,SUP004,Kantatsu,CAT001,weather,Kantatsu local weather conditions may affect operations.,High,Low,weather_signal,Monitor site conditions and review shipment exposure
+EVT-835406,2026-03-12,SUP005,Sekonix,CAT001,weather,Sekonix site is in a region with elevated storm risk.,Medium,High,weather_signal,Monitor site conditions and review shipment exposure
+EVT-446966,2026-03-12,SUP005,Sekonix,CAT001,esg_compliance,Sekonix may need review for labor or compliance signals.,Low,Medium,esg_signal,Monitor for further updates
+EVT-700752,2026-03-12,SUP005,Sekonix,CAT001,logistics,Sekonix may be exposed to port or freight bottlenecks.,Medium,High,logistics_signal,Check transport routes and identify backup logistics options
+EVT-198783,2026-03-12,SUP006,AAC Technologies,CAT002,weather,AAC Technologies site is in a region with elevated storm risk.,Medium,Medium,weather_signal,Monitor site conditions and review shipment exposure
+EVT-767143,2026-03-12,SUP006,AAC Technologies,CAT002,esg_compliance,AAC Technologies was mentioned in relation to environmental compliance scrutiny.,Low,Medium,esg_signal,Monitor for further updates
+EVT-983015,2026-03-12,SUP006,AAC Technologies,CAT002,logistics,AAC Technologies could face transportation delays based on local conditions.,Low,Medium,logistics_signal,Monitor for further updates
+EVT-957090,2026-03-12,SUP007,Goertek,CAT002,news,Goertek was mentioned in an industry report about supplier demand growth.,Medium,Low,public_news,Monitor for further updates
+EVT-693668,2026-03-12,SUP007,Goertek,CAT002,esg_compliance,Goertek may need review for labor or compliance signals.,Medium,Medium,esg_signal,Monitor for further updates
+EVT-463216,2026-03-12,SUP007,Goertek,CAT002,weather,Goertek local weather conditions may affect operations.,Medium,High,weather_signal,Monitor site conditions and review shipment exposure
+EVT-576254,2026-03-12,SUP008,Knowles,CAT002,esg_compliance,Knowles was mentioned in relation to environmental compliance scrutiny.,Low,Medium,esg_signal,Monitor for further updates
+EVT-257997,2026-03-12,SUP008,Knowles,CAT002,news,Knowles announced expansion of manufacturing capacity.,Low,Low,public_news,Monitor for further updates
+EVT-332408,2026-03-12,SUP008,Knowles,CAT002,financial,Knowles may be experiencing margin pressure due to demand shifts.,High,Low,financial_signal,Review supplier financial health and assess alternate vendors
+EVT-167245,2026-03-12,SUP009,Foster Electric,CAT002,esg_compliance,Foster Electric may need review for labor or compliance signals.,Low,Medium,esg_signal,Monitor for further updates
+EVT-512838,2026-03-12,SUP009,Foster Electric,CAT002,logistics,Foster Electric has possible logistics risk due to regional congestion.,Medium,High,logistics_signal,Check transport routes and identify backup logistics options
+EVT-614444,2026-03-12,SUP009,Foster Electric,CAT002,weather,Foster Electric site may face heavy rain disruption this week.,Low,High,weather_signal,Monitor for further updates
+EVT-405966,2026-03-12,SUP010,MEMSensing Microsystems,CAT002,financial,MEMSensing Microsystems showed signs of financial pressure in public reporting.,Low,Low,financial_signal,Monitor for further updates
+EVT-994562,2026-03-12,SUP010,MEMSensing Microsystems,CAT002,weather,MEMSensing Microsystems site is in a region with elevated storm risk.,Low,Medium,weather_signal,Monitor for further updates
+EVT-814121,2026-03-12,SUP010,MEMSensing Microsystems,CAT002,logistics,MEMSensing Microsystems has possible logistics risk due to regional congestion.,Low,High,logistics_signal,Monitor for further updates
+EVT-372367,2026-03-12,SUP011,DS Smith,CAT003,financial,DS Smith was linked to restructuring or layoffs discussion.,Low,Medium,financial_signal,Monitor for further updates
+EVT-116841,2026-03-12,SUP011,DS Smith,CAT003,logistics,DS Smith may be exposed to port or freight bottlenecks.,Low,Medium,logistics_signal,Monitor for further updates
+EVT-408029,2026-03-12,SUP011,DS Smith,CAT003,esg_compliance,DS Smith may need review for labor or compliance signals.,Medium,Medium,esg_signal,Monitor for further updates
+EVT-430555,2026-03-12,SUP012,Smurfit Westrock,CAT003,news,Smurfit Westrock announced expansion of manufacturing capacity.,Low,Medium,public_news,Monitor for further updates
+EVT-596703,2026-03-12,SUP012,Smurfit Westrock,CAT003,esg_compliance,Smurfit Westrock may need review for labor or compliance signals.,Low,Low,esg_signal,Monitor for further updates
+EVT-947995,2026-03-12,SUP012,Smurfit Westrock,CAT003,financial,Smurfit Westrock showed signs of financial pressure in public reporting.,Medium,Medium,financial_signal,Monitor for further updates
+EVT-208046,2026-03-12,SUP013,International Paper,CAT003,weather,International Paper site may face heavy rain disruption this week.,Medium,Low,weather_signal,Monitor site conditions and review shipment exposure
+EVT-849590,2026-03-12,SUP013,International Paper,CAT003,news,International Paper was referenced in a news article about operational changes.,Low,Medium,public_news,Monitor for further updates
+EVT-585575,2026-03-12,SUP013,International Paper,CAT003,financial,International Paper was linked to restructuring or layoffs discussion.,Medium,Medium,financial_signal,Monitor for further updates
+EVT-772881,2026-03-12,SUP014,Oji Holdings,CAT003,financial,Oji Holdings may be experiencing margin pressure due to demand shifts.,Low,Medium,financial_signal,Monitor for further updates
+EVT-752802,2026-03-12,SUP014,Oji Holdings,CAT003,weather,Oji Holdings local weather conditions may affect operations.,Medium,High,weather_signal,Monitor site conditions and review shipment exposure
+EVT-568418,2026-03-12,SUP014,Oji Holdings,CAT003,esg_compliance,Oji Holdings shows possible delay in renewable energy progress.,Medium,Medium,esg_signal,Monitor for further updates
+EVT-695230,2026-03-12,SUP015,Stora Enso,CAT003,esg_compliance,Stora Enso was mentioned in relation to environmental compliance scrutiny.,Low,Medium,esg_signal,Monitor for further updates
+EVT-273640,2026-03-12,SUP015,Stora Enso,CAT003,logistics,Stora Enso may be exposed to port or freight bottlenecks.,Low,Low,logistics_signal,Monitor for further updates
+EVT-528146,2026-03-12,SUP015,Stora Enso,CAT003,financial,Stora Enso was linked to restructuring or layoffs discussion.,Low,Medium,financial_signal,Monitor for further updates
+EVT-436435,2026-03-12,SUP016,ATI,CAT004,weather,ATI site may face heavy rain disruption this week.,Low,Medium,weather_signal,Monitor for further updates
+EVT-758701,2026-03-12,SUP016,ATI,CAT004,news,ATI announced expansion of manufacturing capacity.,Low,High,public_news,Monitor for further updates
+EVT-955428,2026-03-12,SUP016,ATI,CAT004,logistics,ATI could face transportation delays based on local conditions.,Low,High,logistics_signal,Monitor for further updates
+EVT-115324,2026-03-12,SUP017,Timet,CAT004,esg_compliance,Timet may need review for labor or compliance signals.,Medium,Medium,esg_signal,Monitor for further updates
+EVT-215970,2026-03-12,SUP017,Timet,CAT004,weather,Timet local weather conditions may affect operations.,Low,High,weather_signal,Monitor for further updates
+EVT-409666,2026-03-12,SUP017,Timet,CAT004,logistics,Timet could face transportation delays based on local conditions.,High,Medium,logistics_signal,Check transport routes and identify backup logistics options
+EVT-555991,2026-03-12,SUP018,VSMPO-AVISMA,CAT004,logistics,VSMPO-AVISMA has possible logistics risk due to regional congestion.,Medium,Medium,logistics_signal,Check transport routes and identify backup logistics options
+EVT-686657,2026-03-12,SUP018,VSMPO-AVISMA,CAT004,esg_compliance,VSMPO-AVISMA shows possible delay in renewable energy progress.,Low,High,esg_signal,Monitor for further updates
+EVT-479565,2026-03-12,SUP018,VSMPO-AVISMA,CAT004,news,VSMPO-AVISMA was referenced in a news article about operational changes.,Low,High,public_news,Monitor for further updates
+EVT-231508,2026-03-12,SUP019,Toho Titanium,CAT004,financial,Toho Titanium showed signs of financial pressure in public reporting.,Medium,High,financial_signal,Monitor for further updates
+EVT-407799,2026-03-12,SUP019,Toho Titanium,CAT004,logistics,Toho Titanium could face transportation delays based on local conditions.,Medium,Medium,logistics_signal,Check transport routes and identify backup logistics options
+EVT-882887,2026-03-12,SUP019,Toho Titanium,CAT004,news,Toho Titanium announced expansion of manufacturing capacity.,Medium,Medium,public_news,Monitor for further updates
+EVT-795343,2026-03-12,SUP020,OSAKA Titanium Technologies,CAT004,logistics,OSAKA Titanium Technologies may be exposed to port or freight bottlenecks.,Low,Medium,logistics_signal,Monitor for further updates
+EVT-463384,2026-03-12,SUP020,OSAKA Titanium Technologies,CAT004,weather,OSAKA Titanium Technologies site is in a region with elevated storm risk.,Medium,Medium,weather_signal,Monitor site conditions and review shipment exposure
+EVT-849725,2026-03-12,SUP020,OSAKA Titanium Technologies,CAT004,financial,OSAKA Titanium Technologies may be experiencing margin pressure due to demand shifts.,Low,Medium,financial_signal,Monitor for further updates
