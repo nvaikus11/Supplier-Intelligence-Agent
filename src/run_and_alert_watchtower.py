@@ -81,7 +81,7 @@ if __name__ == "__main__":
     run_script("src/risk_scoring.py")
     run_script("src/generate_daily_brief.py")
     run_script("src/send_watchtower_alert.py")
-
+    run_script("src/publish_outputs_to_github.py")
     # close_browser_tabs_from_candidates()
 
     print("\nSupplier Watchtower browser-first pipeline completed.\n")
