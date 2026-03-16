@@ -1,0 +1,75 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------
+# MacOS
+# -----------------------
+.DS_Store
+
+# -----------------------
+# Environment variables
+# -----------------------
+.env
+.env.*
+!.env.example
+
+# -----------------------
+# Streamlit
+# -----------------------
+.streamlit/secrets.toml
+
+# -----------------------
+# Logs
+# -----------------------
+logs/
+outputs/logs/
+
+# -----------------------
+# Local runtime outputs
+# -----------------------
+outputs/daily_reports/*
+outputs/history/*
+
+# But keep folder structure
+!outputs/daily_reports/.keep
+!outputs/history/.keep
+
+# -----------------------
+# IDE
+# -----------------------
+.vscode/
+.idea/
+
+# -----------------------
+# Temporary files
+# -----------------------
+*.tmp
+*.temp
+*.log
+
+# -----------------------
+# Node (OpenClaw dependencies sometimes)
+# -----------------------
+node_modules/
+
+# -----------------------
+# Browser / Playwright / Chromium
+# -----------------------
+.chromium/
+playwright/
