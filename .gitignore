@@ -43,8 +43,16 @@ outputs/logs/
 # -----------------------
 # Local runtime outputs
 # -----------------------
+# Ignore most output files
 outputs/daily_reports/*
 outputs/history/*
+outputs/logs/*
+
+# Allow dashboard data files
+!outputs/daily_reports/supplier_risk_summary.csv
+!outputs/daily_reports/scored_signals.csv
+!outputs/history/supplier_risk_history.csv
+!outputs/logs/signal_audit_log.csv
 
 # But keep folder structure
 !outputs/daily_reports/.keep

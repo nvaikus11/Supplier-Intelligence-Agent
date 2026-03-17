@@ -1,16 +1,16 @@
 SUPPLIER WATCHTOWER DAILY BRIEF
 ========================================
-Generated on: 2026-03-16 13:47:08
+Generated on: 2026-03-16 16:39:57
 
 1. WHAT CHANGED?
 --------------------
 event_date    supplier_name     signal_type                                                                                                                                                                                          signal_text severity confidence
 2026-03-16         DS Smith supply_capacity DS Smith is no longer a public limited company following its combination with International Paper on 31 January 2025, with all future investor reporting now consolidated under International Paper.   Medium       High
-2026-03-16 AAC Technologies       financial                          AAC Technologies investor relations page shows a 2025 interim results webcast scheduled for August 21, 2025, with no current financial data yet published for 2025 or 2026.      Low       High
+2026-03-16 AAC Technologies       financial                                                      AAC Technologies investor relations page lists a 2025 interim results webcast on 2025-08-21, indicating an imminent financial disclosure event.      Low       High
 2026-03-16              ATI supply_capacity    ATI brought online a new titanium alloy sheet facility in South Carolina, introduced a new 12,500-ton billet press, and extended/expanded titanium supply agreements with both Boeing and Airbus.      Low       High
-2026-03-16              ATI       financial               ATI reported Q1–Q4 2025 net income ranging from $97M to $119M per quarter, with CFO Don Newman retiring March 1, 2026 and Rob Foster appointed as successor effective January 1, 2026.      Low       High
-2026-03-16              ATI    general_news                                                    ATI employees ratified a new six-year labor agreement with the United Steelworkers (USW), providing labor stability through the agreement period.      Low       High
-2026-03-16         DS Smith    general_news                                          DS Smith's homepage references a transformation journey to reshape its EMEA business, signaling potential structural and operational changes in the region.      Low       High
+2026-03-16              ATI       financial                    ATI reported Q1–Q4 2025 net income ranging from $97M to $119M per quarter, while CFO Don Newman announced retirement effective March 1, 2026, with Rob Foster named as successor.      Low       High
+2026-03-16              ATI    general_news                                                      ATI employees ratified a new six-year labor agreement with the United Steelworkers (USW), providing labor stability through approximately 2031.      Low       High
+2026-03-16         DS Smith    general_news                                     DS Smith's homepage highlights an ongoing transformation journey to reshape its EMEA business, described as the 'next step' in delivering for customers at pace.      Low       High
 
 2. WHAT MATTERS?
 --------------------
@@ -19,7 +19,7 @@ event_date    supplier_name     signal_type                                     
 - DS Smith | Watch risk | Score 9/27
   Why: DS Smith's merger with International Paper completed January 31, 2025, representing a major corporate ownership change that could affect pricing, account management, contract terms, and operational priorities for packaging customers.
 - AAC Technologies | Ignore risk | Score 3/27
-  Why: An upcoming H1 2025 earnings webcast (scheduled 2025/08/21) indicates financial results are pending disclosure, which may reveal performance trends relevant to supply stability.
+  Why: An upcoming H1 2025 earnings webcast (scheduled 2025-08-21) is a routine financial disclosure event worth monitoring for any revenue or margin deterioration in the sound components segment.
 
 3. WHO SHOULD I CARE ABOUT TODAY?
 --------------------
@@ -28,22 +28,22 @@ event_date    supplier_name     signal_type                                     
 - DS Smith | Watch risk | Score 9/27
   Why: DS Smith's merger with International Paper completed January 31, 2025, representing a major corporate ownership change that could affect pricing, account management, contract terms, and operational priorities for packaging customers.
 - AAC Technologies | Ignore risk | Score 3/27
-  Why: An upcoming H1 2025 earnings webcast (scheduled 2025/08/21) indicates financial results are pending disclosure, which may reveal performance trends relevant to supply stability.
+  Why: An upcoming H1 2025 earnings webcast (scheduled 2025-08-21) is a routine financial disclosure event worth monitoring for any revenue or margin deterioration in the sound components segment.
 
 4. WHAT ACTION SHOULD I TAKE NOW?
 --------------------
 - DS Smith | supply_capacity | Medium
   Action: Engage DS Smith/International Paper account team to confirm continuity of existing contracts, pricing agreements, and service levels post-merger; assess any changes to product portfolio or regional supply footprint.
 - AAC Technologies | financial | Low
-  Action: Monitor the H1 2025 interim results announcement on 2025/08/21 for any revenue decline, margin pressure, or guidance changes that could affect supply capacity.
+  Action: Review AAC Technologies H1 2025 interim results once published for any revenue decline, margin pressure, or guidance changes affecting sound component supply commitments.
 - ATI | supply_capacity | Low
   Action: Leverage ATI's expanded capacity and long-term agreements to negotiate favorable pricing and volume commitments; monitor ramp-up execution at the new Pageland facility.
 - ATI | financial | Low
-  Action: Monitor ATI's Q1 2026 financial results and any strategic shifts under the new CFO; no immediate action required given stable financials.
+  Action: Monitor ATI's Q1 2026 financial results and any strategic shifts under the new CFO to ensure continuity of supply commitments.
 - ATI | general_news | Low
-  Action: No immediate action required; note the six-year labor stability as a positive factor in supply continuity assessments.
+  Action: No immediate action required; note the labor stability as a positive factor in supplier risk assessments through the agreement term.
 - DS Smith | general_news | Low
-  Action: Monitor DS Smith's EMEA transformation progress and confirm it does not disrupt existing supply agreements or introduce delays in packaging delivery.
+  Action: Monitor DS Smith's EMEA transformation updates and confirm that any restructuring does not impact supply commitments or production capacity for your packaging requirements.
 
 5. WHO SHOULD BE NUDGED AUTOMATICALLY?
 --------------------
