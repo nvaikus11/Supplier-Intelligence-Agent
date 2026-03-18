@@ -1,48 +1,69 @@
 SUPPLIER WATCHTOWER DAILY BRIEF
 ========================================
-Generated on: 2026-03-17 22:07:28
+Generated on: 2026-03-17 22:31:18
 
 1. WHAT CHANGED?
 --------------------
-event_date  supplier_name     signal_type                                                                                                                                                                                                           signal_text severity confidence
-2026-03-18 ASE Technology supply_capacity                ASE operates multiple plants across Taiwan and China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou), with additional sites in Malaysia, Philippines, Korea, and Vietnam providing partial diversification.   Medium       High
-2026-03-18 ASE Technology supply_capacity                                                               ASE announced a NT$17.8B facility groundbreaking in Kaohsiung (March 2026) and a second Vietnam plant expansion (December 2025) to meet AI chip demand.      Low       High
-2026-03-18 ASE Technology supply_capacity                 Press releases confirm ASE-Analog Devices strategic collaboration (October 2025) and NVIDIA CEO Jensen Huang's visit to SPIL's new factory (January 2025), indicating strong demand pull on capacity.      Low       High
-2026-03-18 ASE Technology  esg_compliance ASE reports 100% DRC conflict-free products, SBTi-validated 2030/2050 emissions targets, 19.2% renewable energy usage, and has been recognized as a Top 10 Sustainable Company in Taiwan for three consecutive years.      Low       High
-2026-03-18            ATI supply_capacity                     ATI brought online a new titanium alloy sheet facility in South Carolina, introduced a new 12,500-ton billet press, and extended/expanded titanium supply agreements with both Boeing and Airbus.      Low       High
-2026-03-18            ATI       financial                                     ATI reported Q1–Q4 2025 net income ranging from $97M to $119M per quarter, while CFO Don Newman announced retirement effective March 1, 2026, with Rob Foster named as successor.      Low       High
-2026-03-18            ATI    general_news                                                                                        ATI employees ratified a new six-year labor agreement with the United Steelworkers (USW), providing long-term labor stability.      Low       High
+event_date               supplier_name     signal_type                                                                                                                                                                                                          signal_text severity confidence
+2026-03-18                VSMPO-AVISMA  esg_compliance        Investor page confirms VSMPO-AVISMA is deeply integrated into global aerospace as a primary strategic supplier across 50+ countries with 450+ foreign partners, amplifying sanctions and compliance exposure.     High       High
+2026-03-18              ASE Technology supply_capacity                                                           ASE operates numerous plants across China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou) alongside facilities in Taiwan, Malaysia, Vietnam, and other regions.   Medium       High
+2026-03-18          LG Energy Solution       financial                                                              LGES holds domestic AA (stable) ratings from three Korean agencies but carries a Baa1 Negative outlook from Moody's and BBB Stable from S&P as of 2025.   Medium       High
+2026-03-18          LG Energy Solution supply_capacity                                                               Board minutes (Q1-Q3 2025) show approval of GM JV 3rd plant acquisition payment guarantee and a subsequent investment plan change reported in Q2 2025.   Medium       High
+2026-03-18 OSAKA Titanium Technologies supply_capacity The supplier's IR news (March 2026) references a change in investment amount related to sponge titanium production capacity enhancement, alongside a partnership construction announcement and board member changes.   Medium       High
+2026-03-18                 Samsung SDI       financial                           CEO Choi outlined H2 turnaround goals at the March 2026 AGM, implying current financial headwinds, while a KRW 1.5 trillion ESS battery supply deal signals continued commercial activity.   Medium       High
+2026-03-18     Tongfu Microelectronics       financial                                                            Investor relations page shows a February 2026 filing for a targeted A-share issuance with full prospectus and legal opinion submitted to SZSE for review.   Medium       High
+2026-03-18              ASE Technology supply_capacity                                                                                       ASE announced a NT$17.8 billion groundbreaking for a new high-tech facility in Kaohsiung in March 2026 to meet AI chip demand.      Low       High
+2026-03-18              ASE Technology supply_capacity                                                             ASE's press room shows multiple 2025–2026 capacity expansions including advanced packaging facilities and a Vietnam optical transceiver plant expansion.      Low       High
+2026-03-18              ASE Technology  esg_compliance                                                                          ASE reports 100% DRC conflict-free products, SBTi-validated 2030/2050 emissions targets, and 19.2% renewable energy consumption as of 2024.      Low       High
 
 2. WHAT MATTERS?
 --------------------
+- VSMPO-AVISMA | Alert risk | Score 15/27
+  Why: As a Russian state-linked entity supplying 50+ countries, VSMPO-AVISMA faces ongoing sanctions exposure and compliance risk for Western buyers following Russia's invasion of Ukraine.
 - ASE Technology | Alert risk | Score 15/27
-  Why: ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and single-region disruption risk for Chip Module supply continuity.
-- ATI | Watch risk | Score 9/27
-  Why: ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers.
+  Why: ASE's extensive manufacturing footprint includes multiple facilities in China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou), creating geopolitical and trade-restriction concentration risk for chip module supply.
+- Samsung SDI | Alert risk | Score 15/27
+  Why: CEO's explicit reference to 'second-half turnaround goals' signals current financial underperformance, which could affect investment in capacity and supply reliability for battery materials.
+- LG Energy Solution | Alert risk | Score 15/27
+  Why: Moody's has assigned a 'Negative' outlook on LGES's Baa1 rating, signaling potential downgrade risk that could affect the supplier's financial stability and investment capacity in battery materials.
+- JCET | Alert risk | Score 12/27
+  Why: Record Q3 2025 revenue with near-full utilization across key packaging lines signals strong demand but potential capacity constraints for new or lower-priority customers.
 
 3. WHO SHOULD I CARE ABOUT TODAY?
 --------------------
+- VSMPO-AVISMA | Alert risk | Score 15/27
+  Why: As a Russian state-linked entity supplying 50+ countries, VSMPO-AVISMA faces ongoing sanctions exposure and compliance risk for Western buyers following Russia's invasion of Ukraine.
 - ASE Technology | Alert risk | Score 15/27
-  Why: ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and single-region disruption risk for Chip Module supply continuity.
-- ATI | Watch risk | Score 9/27
-  Why: ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers.
+  Why: ASE's extensive manufacturing footprint includes multiple facilities in China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou), creating geopolitical and trade-restriction concentration risk for chip module supply.
+- Samsung SDI | Alert risk | Score 15/27
+  Why: CEO's explicit reference to 'second-half turnaround goals' signals current financial underperformance, which could affect investment in capacity and supply reliability for battery materials.
+- LG Energy Solution | Alert risk | Score 15/27
+  Why: Moody's has assigned a 'Negative' outlook on LGES's Baa1 rating, signaling potential downgrade risk that could affect the supplier's financial stability and investment capacity in battery materials.
+- JCET | Alert risk | Score 12/27
+  Why: Record Q3 2025 revenue with near-full utilization across key packaging lines signals strong demand but potential capacity constraints for new or lower-priority customers.
 
 4. WHAT ACTION SHOULD I TAKE NOW?
 --------------------
+- VSMPO-AVISMA | esg_compliance | High
+  Action: Conduct immediate sanctions compliance review and accelerate qualification of alternative titanium suppliers to reduce single-source dependency.
 - ASE Technology | supply_capacity | Medium
-  Action: Map which specific chip module production lines are located in China and Taiwan, and evaluate dual-sourcing or geographic diversification options.
+  Action: Assess the share of chip module production sourced from China-based ASE facilities and evaluate contingency sourcing from Taiwan, Malaysia, or Vietnam plants.
+- LG Energy Solution | financial | Medium
+  Action: Monitor Moody's rating actions and LGES quarterly earnings reports; assess impact on supplier's ability to fund capacity commitments.
+- LG Energy Solution | supply_capacity | Medium
+  Action: Clarify with LGES account manager the revised scope and timeline of the North American JV capacity plan and confirm any impact on contracted volumes.
+- OSAKA Titanium Technologies | supply_capacity | Medium
+  Action: Engage OSAKA Titanium Technologies to clarify the revised investment scope, timeline, and any potential impact on contracted supply volumes or lead times.
+- Samsung SDI | financial | Medium
+  Action: Review Samsung SDI's Q4 2025 and Q1 2026 earnings releases to assess financial health and any impact on production capacity or R&D commitments.
+- Tongfu Microelectronics | financial | Medium
+  Action: Review the fundraising prospectus to assess use of proceeds, debt levels, and whether capital raise is driven by liquidity pressure or strategic expansion.
 - ASE Technology | supply_capacity | Low
-  Action: Monitor expansion timelines and assess whether increased capacity can be leveraged for improved lead times or pricing negotiations.
+  Action: Monitor construction progress and confirm delivery timelines align with your chip module demand forecasts, particularly for AI-related SKUs.
 - ASE Technology | supply_capacity | Low
-  Action: Track whether high-profile customer commitments (NVIDIA, Analog Devices) could constrain available capacity for other buyers.
+  Action: Engage ASE account team to understand how new capacity allocations will benefit your chip module orders and secure priority allocation agreements.
 - ASE Technology | esg_compliance | Low
-  Action: Leverage ASE's ESG credentials and sustainability reports during supplier audits and responsible sourcing assessments.
-- ATI | supply_capacity | Low
-  Action: Leverage ATI's expanded capacity and long-term agreements to negotiate favorable pricing and volume commitments; monitor ramp-up execution at the new Pageland facility.
-- ATI | financial | Low
-  Action: Monitor ATI's Q1 2026 financial results and any strategic shifts under the new CFO to ensure continuity of supply commitments.
-- ATI | general_news | Low
-  Action: No immediate action required; note the labor stability as a positive factor in supplier risk assessments through the agreement term.
+  Action: Leverage ASE's ESG documentation to satisfy internal supplier sustainability audits and conflict minerals reporting requirements.
 
 5. WHO SHOULD BE NUDGED AUTOMATICALLY?
 --------------------
