@@ -217,7 +217,7 @@ def methodology_section():
     st.dataframe(matrix_df, use_container_width=True, hide_index=True)
 
 
-def supplier_breakdown_section(selected_supplier: str, summary_df: pd.DataFrame, signals_df: pd.DataFrame):
+def supplier_breakdown_section(selected_supplier: str, summary_df: pd.DataFrame, signals_df: pd.DataFrame, chart_key_suffix: str = "default"):
     if not selected_supplier:
         st.info("Select a supplier to see score breakdown.")
         return
@@ -287,7 +287,11 @@ def supplier_breakdown_section(selected_supplier: str, summary_df: pd.DataFrame,
         color="signal_type",
         title=f"Event Score Contribution - {selected_supplier}",
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(
+    fig,
+    use_container_width=True,
+    key=f"event_score_chart_{selected_supplier}_{chart_key_suffix}"
+)
 
 
 def main():
@@ -407,7 +411,12 @@ def main():
         )
 
         if filtered_supplier_names:
-            supplier_breakdown_section(selected_supplier, filtered_summary, filtered_signals)
+            supplier_breakdown_section(
+                selected_supplier,
+                filtered_summary,
+                filtered_signals,
+                chart_key_suffix="drilldown"
+            )
 
     with tabs[2]:
         st.markdown("### Recent Signals & Evidence")
@@ -453,7 +462,12 @@ def main():
                 filtered_supplier_names,
                 key="method_supplier",
             )
-            supplier_breakdown_section(methodology_supplier, filtered_summary, filtered_signals)
+            supplier_breakdown_section(
+                methodology_supplier,
+                filtered_summary,
+                filtered_signals,
+                chart_key_suffix="methodology"
+            )
 
     with tabs[4]:
         st.markdown("### Risk History")

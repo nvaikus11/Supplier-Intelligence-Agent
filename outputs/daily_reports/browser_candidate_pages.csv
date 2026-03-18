@@ -1,20 +1,4 @@
 supplier_id,supplier_name,category_id,website,page_url,page_title,page_source_type
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com,,seed_page
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/portfolio/investorsRelations,投资者关系,discovered_link
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/portfolio/investorsRelations#financial,财务业绩,discovered_link
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/portfolio/investorsRelations#published,法定公布,discovered_link
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/portfolio/investorsRelations#results,最新业绩演示,discovered_link
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/portfolio/investorsRelations#information,投资者关系信息,discovered_link
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/news/newsRepublic,新闻中心,discovered_link
-SUP006,AAC Technologies,CAT002,https://www.aactechnologies.com,https://www.aactechnologies.com/news/marketActivity,市场活动,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com,,seed_page
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/sustainability/how-to-make-your-packaging-circular,How to make your packaging circular,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/products-services/paper-products/paper-facts/compression-strength,Compression Strength,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/media/our-stories/2020/7/how-is-paper-made-our-paper-production-process,How is Paper Made? Our Paper Production Process,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/investors,Investors,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/investors/results-and-presentations,Results and Presentations Archive,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/investors/results-presentations/annual-reports,Annual Reports Archive,discovered_link
-SUP011,DS Smith,CAT003,https://www.dssmith.com,https://www.dssmith.com/investors/investor-information,Investor Information Archive,discovered_link
 SUP016,ATI,CAT004,https://www.atimaterials.com,https://www.atimaterials.com,,seed_page
 SUP016,ATI,CAT004,https://www.atimaterials.com,https://www.atimaterials.com/newsroom,Newsroom,discovered_link
 SUP016,ATI,CAT004,https://www.atimaterials.com,https://ir.atimaterials.com/news-and-events/events-and-presentations,Events + Presentations,discovered_link
@@ -23,3 +7,13 @@ SUP016,ATI,CAT004,https://www.atimaterials.com,https://www.atimaterials.com/abou
 SUP016,ATI,CAT004,https://www.atimaterials.com,https://ir.atimaterials.com/,Investors,discovered_link
 SUP016,ATI,CAT004,https://www.atimaterials.com,https://ir.atimaterials.com/news-events/default.aspx,News + Events,discovered_link
 SUP016,ATI,CAT004,https://www.atimaterials.com,https://ir.atimaterials.com/financial-information/quarterly-results,Financial Information,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://www.aseglobal.com,,seed_page
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://www.aseglobal.com/plants-offices,Location,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://www.aseglobal.com/press-room,Press Room,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://www.aseglobal.com/csr,ESG,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://www.aseglobal.com/csr/sustainability-governance,Sustainability Governance,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://www.aseglobal.com/csr/csr-download,ESG Report,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://ir.aseglobal.com/html/index.php,Investor Relations,discovered_link
+SUP021,ASE Technology,CAT005,https://www.aseglobal.com,https://ir.aseglobal.com/html/ir_results.php,Quarterly Results,discovered_link
+SUP030,BYD,CAT006,https://www.byd.com,https://www.byd.com,,seed_page
+SUP030,BYD,CAT006,https://www.byd.com,https://www.byd.com/us/news-list,News,discovered_link
