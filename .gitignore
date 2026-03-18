@@ -49,6 +49,10 @@ outputs/history/*
 outputs/logs/*
 
 # Allow dashboard data files
+!outputs/daily_reports/
+!outputs/history/
+!outputs/logs/
+
 !outputs/daily_reports/supplier_risk_summary.csv
 !outputs/daily_reports/scored_signals.csv
 !outputs/history/supplier_risk_history.csv
@@ -57,6 +61,7 @@ outputs/logs/*
 # But keep folder structure
 !outputs/daily_reports/.keep
 !outputs/history/.keep
+!outputs/logs/.keep
 
 # -----------------------
 # IDE
