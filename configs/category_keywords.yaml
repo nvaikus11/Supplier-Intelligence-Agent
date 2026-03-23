@@ -52,30 +52,6 @@ Sound Components:
     - capacity expansion
     - new facility
 
-Packaging:
-  search_terms:
-    - corrugated packaging
-    - paper packaging
-    - retail packaging
-    - pulp and paper
-  financial_terms:
-    - pulp prices
-    - paper demand
-    - earnings
-    - margin pressure
-  logistics_terms:
-    - freight
-    - shipping delay
-    - plant disruption
-  esg_terms:
-    - recycling
-    - sustainability
-    - emissions
-    - compliance
-  capacity_terms:
-    - packaging plant
-    - mill expansion
-    - capacity increase
 
 Titanium:
   search_terms:
@@ -102,3 +78,63 @@ Titanium:
     - mill expansion
     - production capacity
     - plant shutdown
+
+Battery Materials:
+  search_terms:
+    - lithium battery
+    - battery cell
+    - EV battery
+    - lithium ion
+    - battery production
+  financial_terms:
+    - earnings
+    - margin pressure
+    - demand slowdown
+    - restructuring
+    - capex
+  logistics_terms:
+    - shipment delay
+    - supply shortage
+    - lithium shortage
+    - cobalt shortage
+  esg_terms:
+    - emissions
+    - environmental impact
+    - labor
+    - compliance
+    - mining issues
+  capacity_terms:
+    - gigafactory
+    - expansion
+    - battery plant
+    - production ramp
+
+Chip Modules:
+  search_terms:
+    - semiconductor
+    - chip module
+    - packaging and test
+    - wafer
+    - assembly
+  financial_terms:
+    - earnings
+    - margin pressure
+    - capex
+    - restructuring
+    - demand slowdown
+  logistics_terms:
+    - supply disruption
+    - shipment delay
+    - substrate shortage
+    - fab disruption
+  esg_terms:
+    - emissions
+    - water usage
+    - labor
+    - compliance
+    - safety
+  capacity_terms:
+    - fab expansion
+    - capacity expansion
+    - advanced packaging
+    - plant investment

@@ -103,9 +103,9 @@ def process_supplier_group(supplier_pages: pd.DataFrame) -> list[dict]:
 
     category_name_map = {
         "CAT001": "Camera Lens",
-        "CAT002": "Sound Components",
-        "CAT003": "Packaging",
         "CAT004": "Titanium",
+        "CAT005": "Chip Modules",
+        "CAT006": "Battery Materials",
     }
     category_name = category_name_map.get(category_id, category_id)
 

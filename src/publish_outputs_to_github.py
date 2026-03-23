@@ -39,7 +39,7 @@ def main():
         sys.exit(0)
 
     # Add files
-    add_result = run_git_command(["add"] + FILES_TO_PUSH)
+    add_result = run_git_command(["add", "-f"] + FILES_TO_PUSH)
     if add_result.returncode != 0:
         print("Git add failed.")
         print(add_result.stderr)

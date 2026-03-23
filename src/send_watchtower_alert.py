@@ -7,7 +7,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).resolve().parent.parent
 SUMMARY_FILE = BASE_DIR / "outputs" / "daily_reports" / "supplier_risk_summary.csv"
 SCORED_SIGNALS_FILE = BASE_DIR / "outputs" / "daily_reports" / "scored_signals.csv"
-DASHBOARD_URL = "http://127.0.0.1:8501"
+DASHBOARD_URL = "https://supplier-intelligence-agent.streamlit.app/"
 TARGET_PHONE = "+14704180733"
 
 
