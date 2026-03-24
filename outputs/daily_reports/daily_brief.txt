@@ -1,48 +1,45 @@
 SUPPLIER WATCHTOWER DAILY BRIEF
 ========================================
-Generated on: 2026-03-23 13:34:13
+Generated on: 2026-03-24 11:57:30
 
 1. WHAT CHANGED?
 --------------------
-event_date  supplier_name     signal_type                                                                                                                                                                                               signal_text severity confidence
-2026-03-23 ASE Technology supply_capacity    ASE operates multiple plants across Taiwan and China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou), with additional sites in Korea, Malaysia, Philippines, and Vietnam providing partial diversification.   Medium       High
-2026-03-23 ASE Technology supply_capacity                               ASE announced a NT$17.8 billion groundbreaking in Kaohsiung for AI chip demand and a second Vietnam plant expansion for optical transceiver manufacturing as of early 2026.      Low       High
-2026-03-23 ASE Technology supply_capacity                           ASE announced FOCoS-Bridge with TSV reducing power loss by 3x for AI/HPC, CPO for AI energy efficiency, and multiple facility groundbreakings between late 2024 and early 2026.      Low       High
-2026-03-23 ASE Technology  esg_compliance                         ASE reports 100% DRC conflict-free products, SBTi-validated 2030/2050 targets, 19.2% renewable energy usage, and adoption of IFRS Sustainability Disclosure Standards as of 2024.      Low       High
-2026-03-23            ATI supply_capacity         ATI brought online a new titanium alloy sheet facility in South Carolina, introduced a new 12,500-ton billet press, and extended/expanded titanium supply agreements with both Boeing and Airbus.      Low       High
-2026-03-23            ATI       financial ATI reported Q1–Q4 2025 sales ranging from $1.13B to $1.2B with net income of $97M–$119M per quarter, while CFO Don Newman announced retirement effective March 1, 2026, with Rob Foster named successor.      Low       High
-2026-03-23            ATI    general_news                                                                 ATI employees ratified a new six-year labor agreement with the United Steelworkers, providing labor stability through approximately 2031.      Low       High
+event_date  supplier_name     signal_type                                                                                                                                                                                                   signal_text severity confidence
+2026-03-24 ASE Technology supply_capacity ASE operates numerous plants across Taiwan and mainland China, with additional sites in Malaysia, Korea, Philippines, Vietnam, and Mexico, indicating both geographic diversification and concentration risk.   Medium       High
+2026-03-24 ASE Technology supply_capacity          ASE announced a NT$17.8 billion groundbreaking for a new Kaohsiung facility targeting AI chip demand, alongside a K18B advanced packaging facility and expanded chip packaging and testing capacity.      Low       High
+2026-03-24 ASE Technology  esg_compliance                              ASE reports 100% DRC conflict-free products, SBTi-validated 2030/2050 emissions targets, 19.2% renewable energy usage, and adoption of IFRS Sustainability Disclosure Standards.      Low       High
+2026-03-24            ATI supply_capacity             ATI brought online a new titanium alloy sheet facility in South Carolina, introduced a new 12,500-ton billet press, and extended/expanded titanium supply agreements with both Boeing and Airbus.      Low       High
+2026-03-24            ATI       financial                             ATI reported Q1–Q4 2025 net income ranging from $97M to $119M per quarter, while CFO Don Newman announced retirement effective March 1, 2026, with Rob Foster named as successor.      Low       High
+2026-03-24            ATI    general_news                                                          ATI employees ratified a new six-year labor agreement with the United Steelworkers, providing long-term labor stability through the contract period.      Low       High
 
 2. WHAT MATTERS?
 --------------------
-- ASE Technology | Alert risk | Score 15/27
-  Why: ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and trade disruption risk for Chip Modules supply continuity.
+- ASE Technology | Alert risk | Score 12/27
+  Why: ASE's extensive manufacturing footprint includes multiple sites in China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou) and Taiwan, creating geopolitical concentration risk for chip module supply continuity.
 - ATI | Watch risk | Score 9/27
-  Why: ATI has expanded titanium production capacity (new Pageland, SC facility and 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers.
+  Why: ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers.
 
 3. WHO SHOULD I CARE ABOUT TODAY?
 --------------------
-- ASE Technology | Alert risk | Score 15/27
-  Why: ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and trade disruption risk for Chip Modules supply continuity.
+- ASE Technology | Alert risk | Score 12/27
+  Why: ASE's extensive manufacturing footprint includes multiple sites in China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou) and Taiwan, creating geopolitical concentration risk for chip module supply continuity.
 - ATI | Watch risk | Score 9/27
-  Why: ATI has expanded titanium production capacity (new Pageland, SC facility and 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers.
+  Why: ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers.
 
 4. WHAT ACTION SHOULD I TAKE NOW?
 --------------------
 - ASE Technology | supply_capacity | Medium
-  Action: Assess dual-sourcing or geographic diversification options given the concentration of critical packaging and test capacity in Taiwan and mainland China.
+  Action: Map your chip module sourcing to specific ASE plants and evaluate exposure to China-Taiwan geopolitical disruption; consider dual-sourcing from non-China/Taiwan ASE sites (Malaysia, Philippines, Korea).
 - ASE Technology | supply_capacity | Low
-  Action: Monitor capacity ramp timelines to assess whether new facilities can meet projected demand commitments and identify any construction or ramp-up delays.
-- ASE Technology | supply_capacity | Low
-  Action: Engage ASE on technology roadmap alignment to ensure their advanced packaging capabilities meet future Chip Module design requirements.
+  Action: Monitor facility construction timeline and assess whether expanded capacity aligns with your chip module demand forecasts and lead time requirements.
 - ASE Technology | esg_compliance | Low
-  Action: Leverage ASE's ESG reporting and conflict minerals compliance documentation to satisfy internal supplier sustainability audit requirements.
+  Action: Leverage ASE's ESG documentation and sustainability reports to satisfy internal supplier ESG due diligence requirements with minimal additional audit burden.
 - ATI | supply_capacity | Low
   Action: Leverage ATI's expanded capacity and long-term agreements to negotiate favorable pricing and volume commitments; monitor ramp-up execution at the new Pageland facility.
 - ATI | financial | Low
-  Action: Monitor ATI's Q4 2025 earnings call and any guidance changes under the new CFO; no immediate action required given stable financials.
+  Action: Monitor ATI's Q1 2026 financial results and any strategic shifts under the new CFO to ensure continuity of supply commitments.
 - ATI | general_news | Low
-  Action: No immediate action required; document the six-year USW agreement as a positive supply continuity factor in supplier risk assessments.
+  Action: Note the six-year labor stability as a positive supply continuity factor when assessing ATI's reliability as a titanium supplier.
 
 5. WHO SHOULD BE NUDGED AUTOMATICALLY?
 --------------------

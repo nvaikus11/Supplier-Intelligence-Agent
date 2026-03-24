@@ -1,3 +1,3 @@
 supplier_id,supplier_name,category_id,total_risk_score,event_count,high_severity_events,category_name,max_possible_score,priority_level,risk_reason
-SUP021,ASE Technology,CAT005,15,4,0,Chip Modules,27,Alert,"ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and trade disruption risk for Chip Modules supply continuity."
-SUP016,ATI,CAT004,9,3,0,Titanium,27,Watch,"ATI has expanded titanium production capacity (new Pageland, SC facility and 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers."
+SUP021,ASE Technology,CAT005,12,3,0,Chip Modules,27,Alert,"ASE's extensive manufacturing footprint includes multiple sites in China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou) and Taiwan, creating geopolitical concentration risk for chip module supply continuity."
+SUP016,ATI,CAT004,9,3,0,Titanium,27,Watch,"ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, reducing supply disruption risk for titanium buyers."
