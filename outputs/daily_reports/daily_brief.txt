@@ -1,48 +1,26 @@
 SUPPLIER WATCHTOWER DAILY BRIEF
 ========================================
-Generated on: 2026-03-28 20:33:14
+Generated on: 2026-03-29 21:11:59
 
 1. WHAT CHANGED?
 --------------------
-event_date  supplier_name     signal_type                                                                                                                                                                                                           signal_text severity confidence
-2026-03-29 ASE Technology supply_capacity                ASE operates multiple plants across Taiwan and China (Shanghai, Wuxi, Suzhou, Kunshan, Huizhou), with additional sites in Malaysia, Philippines, Korea, and Vietnam providing partial diversification.   Medium       High
-2026-03-29 ASE Technology supply_capacity                                                         ASE announced a NT$17.8 billion facility groundbreaking in Kaohsiung and a second plant expansion in Vietnam to meet AI chip and optical interconnect demand.      Low       High
-2026-03-29 ASE Technology supply_capacity                                                  ASE announced a strategic collaboration with Analog Devices and hosted NVIDIA CEO Jensen Huang at SPIL's new factory, indicating strong demand from major customers.      Low       High
-2026-03-29 ASE Technology  esg_compliance ASE reports 100% DRC conflict-free products, SBTi-validated 2030/2050 emissions targets, 19.2% renewable energy usage, and has been recognized as a top 10 sustainable company in Taiwan for three consecutive years.      Low       High
-2026-03-29            ATI supply_capacity           ATI brought online a new titanium alloy sheet facility in South Carolina, introduced a new 12,500-ton billet press, and extended/expanded long-term titanium supply agreements with both Boeing and Airbus.      Low       High
-2026-03-29            ATI       financial                                                               ATI reported net income of $97–119M per quarter across 2025 with a new CFO (Rob Foster) taking over January 1, 2026, following Don Newman's retirement.      Low       High
-2026-03-29            ATI    general_news                                                                       ATI employees ratified a new six-year labor agreement with the United Steelworkers (USW), providing labor stability through approximately 2031.      Low       High
+event_date supplier_name signal_type                                                                                                                                                signal_text severity confidence
+2026-03-30           ATI   financial ATI reported Q4 2025 sales of $1.2B and net income of $97M while announcing a new CFO effective January 2026 and CEO elevation to Board Chair in May 2026.      Low       High
 
 2. WHAT MATTERS?
 --------------------
-- ASE Technology | Alert risk | Score 15/27
-  Why: ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and single-region disruption risk for Chip Module supply continuity.
-- ATI | Watch risk | Score 9/27
-  Why: ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, positively reinforcing supply continuity for titanium buyers.
+- ATI | Ignore risk | Score 3/27
+  Why: ATI reported solid Q4 2025 results ($1.2B sales, $97M net income) but concurrent CFO and Board Chair transitions introduce short-term leadership continuity risk relevant to a critical titanium supplier.
 
 3. WHO SHOULD I CARE ABOUT TODAY?
 --------------------
-- ASE Technology | Alert risk | Score 15/27
-  Why: ASE's manufacturing footprint is heavily concentrated in Taiwan and China, creating geopolitical and single-region disruption risk for Chip Module supply continuity.
-- ATI | Watch risk | Score 9/27
-  Why: ATI has expanded titanium production capacity (new Pageland, SC facility, 12,500-ton billet press) and secured long-term agreements with Boeing and Airbus, positively reinforcing supply continuity for titanium buyers.
+- ATI | Ignore risk | Score 3/27
+  Why: ATI reported solid Q4 2025 results ($1.2B sales, $97M net income) but concurrent CFO and Board Chair transitions introduce short-term leadership continuity risk relevant to a critical titanium supplier.
 
 4. WHAT ACTION SHOULD I TAKE NOW?
 --------------------
-- ASE Technology | supply_capacity | Medium
-  Action: Map which specific chip module production lines are located in China and Taiwan, and assess dual-sourcing or geographic diversification options.
-- ASE Technology | supply_capacity | Low
-  Action: Monitor expansion timelines to assess whether new capacity can be leveraged for future sourcing agreements or to reduce lead time risk.
-- ASE Technology | supply_capacity | Low
-  Action: Engage ASE account management to understand capacity allocation priorities given high-profile customer partnerships that may compete for capacity.
-- ASE Technology | esg_compliance | Low
-  Action: Leverage ASE's ESG reporting and conflict-free mineral certifications to satisfy internal responsible procurement and sustainability audit requirements.
-- ATI | supply_capacity | Low
-  Action: Leverage ATI's expanded capacity and long-term agreements to negotiate favorable pricing or volume commitments aligned with your titanium demand forecast.
 - ATI | financial | Low
-  Action: Monitor ATI's Q1 2026 financial results to confirm continuity of financial performance under the new CFO.
-- ATI | general_news | Low
-  Action: Note the six-year labor stability as a positive factor in supplier risk scoring; no immediate action required.
+  Action: Monitor ATI's Q1 2026 earnings and any strategic shifts under new CFO Rob Foster to ensure pricing, capacity commitments, and contract terms remain stable.
 
 5. WHO SHOULD BE NUDGED AUTOMATICALLY?
 --------------------
