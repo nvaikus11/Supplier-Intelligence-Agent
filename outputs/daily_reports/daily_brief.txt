@@ -1,26 +1,36 @@
 SUPPLIER WATCHTOWER DAILY BRIEF
 ========================================
-Generated on: 2026-03-29 21:11:59
+Generated on: 2026-04-03 21:54:06
 
 1. WHAT CHANGED?
 --------------------
-event_date supplier_name signal_type                                                                                                                                                signal_text severity confidence
-2026-03-30           ATI   financial ATI reported Q4 2025 sales of $1.2B and net income of $97M while announcing a new CFO effective January 2026 and CEO elevation to Board Chair in May 2026.      Low       High
+event_date  supplier_name     signal_type                                                                                                                                                signal_text severity confidence
+2026-04-04 ASE Technology       logistics                        ASE maintains manufacturing plants in Shanghai and Wuxi, China, alongside facilities in Taiwan, Korea, Malaysia, and other regions.   Medium       High
+2026-04-04 ASE Technology supply_capacity                          ASE announced a new high-tech facility investment of NT$17.8 billion in Kaohsiung in March 2026, targeting AI chip demand growth.      Low       High
+2026-04-04            ATI       financial ATI reported Q4 2025 sales of $1.2B and net income of $97M while announcing a new CFO effective January 2026 and CEO elevation to Board Chair in May 2026.      Low       High
 
 2. WHAT MATTERS?
 --------------------
+- ASE Technology | Watch risk | Score 9/27
+  Why: ASE operates plants in China (Shanghai, Wuxi) which are subject to geopolitical and trade restriction risks that could impact chip module supply continuity.
 - ATI | Ignore risk | Score 3/27
-  Why: ATI reported solid Q4 2025 results ($1.2B sales, $97M net income) but concurrent CFO and Board Chair transitions introduce short-term leadership continuity risk relevant to a critical titanium supplier.
+  Why: ATI reported solid Q4 2025 results ($1.2B sales, $97M net income), but concurrent CFO and Board Chair transitions introduce leadership continuity risk relevant to a critical titanium supplier.
 
 3. WHO SHOULD I CARE ABOUT TODAY?
 --------------------
+- ASE Technology | Watch risk | Score 9/27
+  Why: ASE operates plants in China (Shanghai, Wuxi) which are subject to geopolitical and trade restriction risks that could impact chip module supply continuity.
 - ATI | Ignore risk | Score 3/27
-  Why: ATI reported solid Q4 2025 results ($1.2B sales, $97M net income) but concurrent CFO and Board Chair transitions introduce short-term leadership continuity risk relevant to a critical titanium supplier.
+  Why: ATI reported solid Q4 2025 results ($1.2B sales, $97M net income), but concurrent CFO and Board Chair transitions introduce leadership continuity risk relevant to a critical titanium supplier.
 
 4. WHAT ACTION SHOULD I TAKE NOW?
 --------------------
+- ASE Technology | logistics | Medium
+  Action: Assess the share of chip module production sourced from ASE's China facilities and develop contingency sourcing plans in case of trade disruptions.
+- ASE Technology | supply_capacity | Low
+  Action: Engage ASE to understand how new capacity allocation may affect lead times and prioritization for your chip module orders.
 - ATI | financial | Low
-  Action: Monitor ATI's Q1 2026 earnings and any strategic shifts under new CFO Rob Foster to ensure pricing, capacity commitments, and contract terms remain stable.
+  Action: Monitor ATI's Q1 2026 results and any strategic shifts under new CFO Rob Foster to ensure pricing, capacity commitments, and contract terms remain stable.
 
 5. WHO SHOULD BE NUDGED AUTOMATICALLY?
 --------------------
